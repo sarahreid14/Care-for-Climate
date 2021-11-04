@@ -1,0 +1,7 @@
+h1 { font-size: 50px; color: white }
+h2 { font-size: 30px; color:white}
+p1 {font-size: 20px; font-style: italic }
+p2 {font-size: 20px; font-style: italic}
+.mainbody {background-image: url("greenleafbackground.jpg"); background-size: cover ;font-family: 'Patrick-Hand', cursive;
+}
+.mainbody1 {font-family: 'Patrick-Hand', cursive }

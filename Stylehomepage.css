@@ -1,0 +1,20 @@
+p1 {font-size: 25px;
+    font-style: italic;
+    }
+    
+h1 {text-align:center; color:white; font-family: 'Bangers',cursive ; font-size: 70px; }
+h2 {text-align: center; color:white; font-size: 40px;font-family: 'Bangers', cursive;}
+.heading {
+    background-image: url("Planetearth.jpg");
+    background-size: cover;
+    padding-bottom: 20em;
+    
+}
+h3 {text-decoration: underline; font-size: 20px;}
+
+.col {background-image: url("bodybackground.jpg");}
+.navbar navbar-expand-lg navbar-dark bg-dark {font-family: 'Courgette', cursive;}
+
+body {font-family: 'Patrick hand', cursive; font-size: 20px;}
+h3 {font-size: 25px}
+
